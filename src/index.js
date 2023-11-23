@@ -2,7 +2,7 @@ import App from "./App";
 import React from "react";
 import { Provider } from "react-redux";
 import ReactDOM from "react-dom/client";
-import { formAddAll } from "./reducers/FormAddAll";
+import { formAddAll } from "./reducers/formAddAll";
 import counterReducer from "./reducers/countReducer";
 import listComponent from "./reducers/listComponent";
 import todoListReducer from "./reducers/todoListReducer";
